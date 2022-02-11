@@ -1,4 +1,4 @@
-# Mob-Programming
+# Mob-Programming 01: LinkedList
 
 ## How to solve this challenge?
 
